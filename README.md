@@ -1,24 +1,10 @@
-# vue-weather
+# Weather App
 
-## Project setup
-```
-yarn install
-```
+Live Site [Here](https://clever-payne-1feeda.netlify.app/)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Technology Used
+Vue.js
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Tutor
+Tyler Potts
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
